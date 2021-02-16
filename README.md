@@ -5,4 +5,4 @@ There are two modes in this project – the administrator mode and the user mode
 
 _Sample ScreenShots_ :
 
-![Screenshot](/img/1.jpg)
+![Screenshot](https://github.com/bharatbamaniya/cpp-consoleProject-RailwayReservationSystem/blob/main/img/1.png)
