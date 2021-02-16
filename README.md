@@ -5,3 +5,4 @@ There are two modes in this project – the administrator mode and the user mode
 
 _Sample ScreenShots_ :
 
+![Screenshot](/img/1.jpg)
