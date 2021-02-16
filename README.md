@@ -6,3 +6,8 @@ There are two modes in this project – the administrator mode and the user mode
 _Sample ScreenShots_ :
 
 ![Screenshot](https://github.com/bharatbamaniya/cpp-consoleProject-RailwayReservationSystem/blob/main/img/1.png)
+![Screenshot](https://github.com/bharatbamaniya/cpp-consoleProject-RailwayReservationSystem/blob/main/img/2.png)
+![Screenshot](https://github.com/bharatbamaniya/cpp-consoleProject-RailwayReservationSystem/blob/main/img/3.png)
+![Screenshot](https://github.com/bharatbamaniya/cpp-consoleProject-RailwayReservationSystem/blob/main/img/4.png)
+![Screenshot](https://github.com/bharatbamaniya/cpp-consoleProject-RailwayReservationSystem/blob/main/img/5.png)
+
